@@ -44,3 +44,6 @@ db.users.find({ $or: [ { "status": "inactive" }, { "age": { $gte: 18 }}]});
 LOGICAL Operators
 $and 
 $or
+
+
+change here

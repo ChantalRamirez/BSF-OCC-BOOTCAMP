@@ -7,6 +7,7 @@ const step1 = (callback) => {
     }, 5000);
 }
 
+
 const step2 = (callback) => {
     setTimeout(() => {
         console.log("Step 2 is complete.");
